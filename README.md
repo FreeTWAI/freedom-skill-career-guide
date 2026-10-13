@@ -11,9 +11,9 @@
 
 本 repo 的維護者負責「方向探索與陪跑公會的原創入門手冊與可填模板。」這個模組；公會職稱與自填 GitHub slug 不授予寫入權。
 
-程式／內容入口：[SKILL.md](SKILL.md)、[RESULT-TEMPLATE.md](RESULT-TEMPLATE.md)、[skill-book.json](skill-book.json)。協作先讀 [CONTRIBUTING.md](CONTRIBUTING.md)，讓 Agent 讀 [AGENTS.md](AGENTS.md)；從[本倉 Issues](https://github.com/FreeTWAI-AI/freedom-skill-career-guide/issues)認領、[查看既有 PR](https://github.com/FreeTWAI-AI/freedom-skill-career-guide/pulls)避免重工。
+程式／內容入口：[SKILL.md](SKILL.md)、[RESULT-TEMPLATE.md](RESULT-TEMPLATE.md)、[skill-book.json](skill-book.json)。協作先讀 [CONTRIBUTING.md](CONTRIBUTING.md)，讓 Agent 讀 [AGENTS.md](AGENTS.md)；從[本倉 Issues](https://github.com/FreeTWAI/freedom-skill-career-guide/issues)認領、[查看既有 PR](https://github.com/FreeTWAI/freedom-skill-career-guide/pulls)避免重工。
 
-協助本人用一個可完成的練習說清楚方向。 不作心理診斷、職涯保證或代替本人選擇主力公會。 會員、公會、技能書授予和公開成果 ref 仍以中央平台 API 的紀錄為準；私人素材留在自己的儲存位置。 跨 repo 的協定由[中央平台](https://github.com/FreeTWAI-AI/freedom-platform)維護。
+協助本人用一個可完成的練習說清楚方向。 不作心理診斷、職涯保證或代替本人選擇主力公會。 會員、公會、技能書授予和公開成果 ref 仍以中央平台 API 的紀錄為準；私人素材留在自己的儲存位置。 跨 repo 的協定由[中央平台](https://github.com/FreeTWAI/freedom-platform)維護。
 <!-- freedom-repository-guide:end -->
 
 協助會員自己說清楚想做什麼，選一個能完成的練習。
