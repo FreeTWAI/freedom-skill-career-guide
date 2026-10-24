@@ -1,0 +1,15 @@
+{
+  "name": "freedom-skill-career-guide",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "npm run test:json && npm run test:lint && npm run test:links",
+    "test:json": "python3 -m json.tool skill-book.json > /dev/null",
+    "test:lint": "markdownlint --ignore node_modules '**/*.md'",
+    "test:links": "find . -name '*.md' -type f -not -path '*/node_modules/*' -exec markdown-link-check -q {} \\;"
+  },
+  "devDependencies": {
+    "markdown-link-check": "^3.15.0",
+    "markdownlint-cli": "^0.44.0"
+  }
+}
