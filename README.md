@@ -25,6 +25,12 @@
 3. 閱讀 [SKILL.md](SKILL.md)，完成一份 [成果模板](RESULT-TEMPLATE.md)。
 4. 把可公開的成果貼回平台，與夥伴一起改進。
 
+## 相關文件
+
+- [職涯方向與陪跑分類 (Taxonomy)](docs/taxonomy.md)
+- [評估矩陣結構 (Evaluation Matrix)](docs/evaluation.md)
+- [里程碑進度規則 (Milestones)](docs/milestones.md)
+
 ## 使用方式
 
 可直接照步驟手動完成，也可將公開內容交給自己的 AI 工具協助。加入公會與 fork 不會安裝軟體、購買訂閱或取得職務資格。私密紀錄留在自己的安全位置，不放進公開 fork。
